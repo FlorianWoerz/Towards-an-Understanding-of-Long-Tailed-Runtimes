@@ -21,7 +21,7 @@ Each folder corresponds to a different experimental question under consideration
 	Contains all csv-files for the probSAT trials.
 * `./csvs_uniform`
 	Contains all csv-files for the uniformly random instances.
-* `./csvs_YAL
+* `./csvs_YAL`
 	Contains all csv-files for the results obtained with the YalSAT solver.
 
 Each respective folder might contain `n*` folders indicating the number of variables of the instances.
