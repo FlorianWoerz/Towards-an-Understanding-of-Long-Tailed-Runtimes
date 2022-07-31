@@ -1,4 +1,4 @@
-# Description of folder content `./experiments
+# Description of folder content `./experiments`
 
 The ./experiments folder contains the raw data collected during our experiments.
 For each base instance $F$ there is a seperate .csv-file containing the flips and runtime used to solve the modified instances based on $F$, together with the seed used.
