@@ -1,6 +1,6 @@
 # Description of folder content `./evaluation/evaluate_SB/`
 
-This folder contains the file "all_tests.cvs" that summarizes the goodness-of-fit results for **all** conducted experiments.
+This folder contains the file `all_tests.cvs` that summarizes the goodness-of-fit results for **all** conducted experiments.
 
 ## How To Read the .csv-file
 
